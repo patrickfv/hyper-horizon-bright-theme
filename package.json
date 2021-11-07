@@ -1,0 +1,23 @@
+{
+  "name": "hyper-horizon-light-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/patrickfv/hyper-horizon-light-theme.git",
+  "author": {
+    "name": "patrickfv",
+    "email": "patrickfv.br@gmail.com",
+    "url": "https://twitter.com/patrickfv_"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "hyper",
+    "hyper-theme",
+    "hyper-horizon",
+    "color-theme",
+    "horizon-theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/patrickfv/hyper-horizon-light-theme/issues"
+  }
+}
