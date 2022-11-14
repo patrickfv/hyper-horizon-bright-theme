@@ -1,7 +1,7 @@
 {
   "name": "hyper-horizon-light-theme",
   "description": "Hyper theme based on horizon (https://github.com/jolaleye/horizon-theme-vscode/)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/patrickfv/hyper-horizon-light-theme.git",
   "author": {
